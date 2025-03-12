@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
 
 <p align="center">
   🚀 Desenvolvedor apaixonado por tecnologia e soluções eficientes. <br>
