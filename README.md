@@ -1,11 +1,3 @@
-<h1 align="center">Olá! Eu sou o João Gabriel 👋</h1>
-
-<p align="center">
-  🚀 Desenvolvedor apaixonado por tecnologia e soluções eficientes. <br>
-  💡 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-</p>
-
----
 
 ## 🚀 Tecnologias e Ferramentas  
 
