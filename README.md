@@ -1,6 +1,5 @@
 # 👋 Hello, I'm João Gabriel!
 
-## 💻 Back-end Dev  
 ## 🎓 Software Engineering  
 
 ---
