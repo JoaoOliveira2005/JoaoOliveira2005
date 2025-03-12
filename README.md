@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou o João Gabriel 👋</h1>
 
 <p align="center">
   🚀 Desenvolvedor apaixonado por tecnologia e soluções eficientes. <br>
@@ -49,15 +49,22 @@
 
 ---
 
-### 📊 Estatísticas  
+## 📊 Estatísticas do GitHub  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoOliveira2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira2005&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
-### 🌎 Onde me encontrar  
+## 🐍 Contribuições  
+<p align="center">
+  <img src="https://github.com/JoaoOliveira2005/JoaoOliveira2005/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌎 Onde me encontrar  
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
